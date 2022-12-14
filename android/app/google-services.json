@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "922862604611",
+    "project_id": "myapp-camila",
+    "storage_bucket": "myapp-camila.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922862604611:android:37beb34f19fed7a0f71ff6",
+        "android_client_info": {
+          "package_name": "com.example.teste4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922862604611-d07ku3p7lngb3otmm56n282s652v0f29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1oVuBJBIdhU8wxqC2mbnCLY0-pDEzGgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922862604611-d07ku3p7lngb3otmm56n282s652v0f29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922862604611-p3mri7qfudfqb8vlctjqilhnn6cppctl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.teste4"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
